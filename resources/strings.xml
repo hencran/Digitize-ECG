@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">UTAP</string>
+
+    // Startup
+    <string name="operator_id">"Operator ID"</string>
+    <string name="subject_id">"Subject ID"</string>
+    <string name="get_started">"Get Started"</string>
+    <string name="welcome_message">"Welcome to UTAP!"</string>
+    <string name="welcome_instructions">"Please enter the Operator ID and \nSubject ID to continue."</string>
+    <string name="reset_button">"Reset"</string>
+    <string name="main_data_files">"Data Files"</string>
+
+    // Popups
+    <string name="permissions_popup_message">"Please accept the necessary permissions and press \"next\"."</string>
+    <string name="ok_button">"OK"</string>
+    <string name="yes_button">"Yes"</string>
+    <string name="no_button">"No"</string>
+
+    <string name="credentials_popup_message">"Please enter the network name and password of the network the UTES should connect to."</string>
+    <string name="network_name_hint">"Network Name"</string>
+    <string name="network_password_hint">"Password"</string>
+
+    // Connection
+    <string name="connect_message">"Connect the UTES"</string>
+    <string name="connect_instructions">"Press \"Connect\" when the UTES device is on and in range. If this is your first time connecting, it may take a while.\n\n"</string>
+    <string name="button_connect">"Connect"</string>
+    <string name="button_add_new">"Add New"</string>
+
+    // Main Menu
+    <string name="main_menu_label">"Main Menu"</string>
+    <string name="main_menu_message_initial">"Press \"Measure\" to see measurement options. When a measurement has been taken, you may view the plot or send the data to the server."</string>
+    <string name="main_menu_message_repeat">"Press \"Repeat Measurement\" to measure again. Press \"Plot\" to view the plotted data. Press \"Send Data\" to email the measurement results to the server."</string>
+    <string name="measure_button">"Measure"</string>
+
+    <string name="plot_button">"Plot"</string>
+    <string name="send_data_button">"Send Data"</string>
+    <string name="data_files_button">"Data Files"</string>
+    <string name="exit_button">"Exit"</string>
+
+    <string name="battery_level">"Battery Level not sent."</string>
+    <string name="UTES_device_status">"UTES Device Status:"</string>
+
+    // Plot
+    <string name="back_button">"Back"</string>
+    <string name="button_done">"Done"</string>
+    <string name="relative_permittivity_label">"Relative Permittivity"</string>
+    <string name="conductivity_label">"Conductivity"</string>
+    <string name="frequency_label">"Frequency"</string>
+
+    // Measurement
+    <string name="measure_label">"Take a Measurement"</string>
+    <string name="measure_instructions">"To take a measurement, place the electrode array firmly upon the desired tissue region. When the electrodes are in place, press \"Start Measurement\"."</string>
+    <string name="measure_in_progress">"Hold still..."</string>
+    <string name="measurement_complete">"Measurement complete! You may remove the electrode array from the tissue."</string>
+    <string name="start_measurement">"Start Measurement"</string>
+    <string name="measure_again_button">"Measure Again"</string>
+    <string name="progress_label">"Progress:"</string>
+
+    // Messages about the progress of the sensor, including percentages and prompts:
+
+    //
+
+
+</resources>
